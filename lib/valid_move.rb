@@ -1,6 +1,6 @@
 # code your #valid_move? method here
 def valid_move?(board, index)
-  if position_taken?  truthiness
+  if position_taken?  truthy
     execute "truthy value"
 end
 end
